@@ -6,10 +6,10 @@
     "schemaVersion": 1,
     "product": "SantoruOS Beta",
     "channel": "beta",
-    "version": "0.1.0-beta.5",
-    "buildNumber": 5,
-    "releaseId": "santoruos-beta-0.1.0-beta.5-b29db8fd06e5afc8",
-    "publishedAt": "2026-07-29T09:30:49.410Z",
+    "version": "0.1.0-beta.6",
+    "buildNumber": 6,
+    "releaseId": "santoruos-beta-0.1.0-beta.6-c2a05d47a3c423f2",
+    "publishedAt": "2026-07-29T10:22:45.671Z",
     "minimumUpdaterVersion": "0.1.0",
     "minimumSchemaVersion": 23,
     "supportedPlatforms": [
@@ -25,23 +25,23 @@
       {
         "platform": "win32",
         "architecture": "x64",
-        "downloadUrl": "https://github.com/longv-blip/santoruos-beta-updates/releases/download/v0.1.0-beta.5/SantoruOS-Beta-0.1.0-beta.5-Setup.exe",
-        "size": 279047680,
-        "sha256": "b29db8fd06e5afc85e1b9a0ce44dcbffaabb0540328a6833fea45847bfb70f6d",
+        "downloadUrl": "https://github.com/longv-blip/santoruos-beta-updates/releases/download/v0.1.0-beta.6/SantoruOS-Beta-0.1.0-beta.6-Setup.exe",
+        "size": 279048192,
+        "sha256": "c2a05d47a3c423f2cec8d0d9b7be5675d522588dbfe1e9472457c581e477e2f0",
         "packageType": "windows-installer",
         "requiredFreeSpace": 4294967296
       },
       {
         "platform": "win32",
         "architecture": "x64",
-        "downloadUrl": "https://github.com/longv-blip/santoruos-beta-updates/releases/download/v0.1.0-beta.5/SantoruOS-Beta-0.1.0-beta.5-win32-x64.zip",
-        "size": 278664437,
-        "sha256": "bab709b81eafb4c2523f941ee07c44443f47f0115d1520389e2e8c599cf138cd",
+        "downloadUrl": "https://github.com/longv-blip/santoruos-beta-updates/releases/download/v0.1.0-beta.6/SantoruOS-Beta-0.1.0-beta.6-win32-x64.zip",
+        "size": 278665154,
+        "sha256": "0c9ef30783322e0687a5b23a6e4b16d4b2c9f8182203e6cfd09b97b7667c9555",
         "packageType": "windows-portable",
         "requiredFreeSpace": 4294967296
       }
     ],
-    "releaseNotesUrl": "https://github.com/longv-blip/santoruos-beta-updates/releases/download/v0.1.0-beta.5/RELEASE_NOTES-0.1.0-beta.5.md",
+    "releaseNotesUrl": "https://github.com/longv-blip/santoruos-beta-updates/releases/download/v0.1.0-beta.6/RELEASE_NOTES-0.1.0-beta.6.md",
     "mandatory": false,
     "securityUpdate": false,
     "rolloutPercentage": 100,
@@ -52,5 +52,5 @@
       "sourceTreeDirty": null
     }
   },
-  "signature": "oaMbGC3m7MRbcl3wh+Dd6NRrfoNFfvB6kxyQDMHj6NJbhRwn+u/tMMi7G3aatcJ43U4Z19fuZFjWC/NyfMFGCg=="
+  "signature": "0W3c+6AqyFYbGzqWOe2dogsBIrnqAAjevL5jrdIdrikewxVHTypivOgYTTuNZzEJwUBchMC8pU7wDWgqdwIxAw=="
 }
